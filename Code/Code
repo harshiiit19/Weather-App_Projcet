@@ -5,4 +5,4 @@ Geopy for locating the coordinates of addresses, cities, countries, and landmark
 TimeZoneFinder looks up the corresponding timezone for a given set of coordinates on Earth, entirely offline.
 Pytz allows accurate and cross-platform timezone calculations using Python.
 
-and last i used weather API by Open Weather map
+and last I used weather API by Open Weather map
