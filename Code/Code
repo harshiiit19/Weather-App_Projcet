@@ -1,1 +1,8 @@
+This Application is Developed in the Python Language. 
+In this application, I used Python Libarys to develop this application. 
+Tkinter for used to construct basic graphical user interface (GUI) applications.
+Geopy for locating the coordinates of addresses, cities, countries, and landmarks across the globe using third-party geocoders and other data sources.
+TimeZoneFinder looks up the corresponding timezone for a given set of coordinates on Earth, entirely offline.
+Pytz allows accurate and cross-platform timezone calculations using Python.
 
+and last i used weather API by Open Weather map
